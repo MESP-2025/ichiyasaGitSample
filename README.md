@@ -12,3 +12,5 @@ TEST-6
 TEST-7
 
 TEST-10
+
+TEST-10-2 削除したbranchからbranchを新たに作成
